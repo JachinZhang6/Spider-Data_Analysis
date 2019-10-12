@@ -5,3 +5,4 @@
 - 3、使用 Selenium 自动爬取斗鱼直播间的数据，包括直播间 图片、详情链接、标题、分类、热度、主播等
 - 4、Kaggle上的一个经典比赛项目：泰坦尼克号生存预测。（附上项目链接：https://www.kaggle.com/c/titanic/data） 在这里，要求你完成对哪些人可能生存的分析，特别是要求您运用机器学习的工具来预测哪些乘客幸免于难
 - 5、使用 Scrapy_Redis 抓取京东图书的信息，有图书的大类别（book_category）、图书小类别的 url（s_href）、图书的小类别（s_cate）、图片（book_img）、书名（book_name）、作者（book_author）、出版社（book_press）、出版时间（book_publish_date）、价格（book_price）等
+- 6、爬取及分析拉勾网数据分析职位的相关信息，利用爬虫软件（八爪鱼）爬取数据，再从多维度（区域、 薪资、学历、技能要求等）进行分析，使用 python 分析库分析区域分布、薪资分布及其各个 字段之间的关联
